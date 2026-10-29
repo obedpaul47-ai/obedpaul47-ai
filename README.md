@@ -1,47 +1,64 @@
-# Hi there, I'm Obed Paul 👋 
+### Hi there, I'm Obed Paul 👋
 
-### 💻 Frontend Developer | Building Responsive & Interactive Web Applications
+💻 **Full-Stack Developer | React, TypeScript, Next.js, Node.js & PostgreSQL**
 
-I am a passionate Frontend Developer based in Abuja, dedicated to crafting clean, accessible, and user-friendly web interfaces. I focus on turning complex problems into intuitive digital experiences using modern web technologies.
+I am a software engineer based in Abuja, Nigeria, building scalable, modern web applications across the full stack[cite: 9]. Trained originally in surveying and geo-informatics, I bring a unique, rigorous approach to software development—prioritizing data integrity, methodical documentation, and reliable execution[cite: 9]. I am actively seeking remote full-stack or front-end roles[cite: 9].
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
-* **Tools & Platforms:** Git, GitHub, Netlify, VS Code
-* **Core Focus:** Responsive Design, Web Performance, UI/UX Implementation, State Management
+* **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Styled Components, HTML5, CSS3, Vite[cite: 9]
+* **Backend:** Node.js, Express, REST APIs, JWT Authentication, Firebase[cite: 9]
+* **Databases:** PostgreSQL, MongoDB, SQL Design[cite: 9]
+* **Tools & DevOps:** Git, GitHub, GitHub Actions, Netlify, Render, VS Code[cite: 9]
+* **Core Focus:** Full-Stack Architecture, Responsive Design, State Management, UI/UX Implementation[cite: 9]
+
+---
+
+### 💼 Professional Experience
+
+**Full-Stack Developer | SAY PTS ([saypts.com](https://saypts.com))** *(2026)*[cite: 9]
+* Engineered end-to-end full-stack enhancements for saypts.com, modernizing the web platform with Next.js and Firebase[cite: 9].
+* Rebuilt core application features using Next.js, React, and TypeScript, improving client-side rendering and user interactivity[cite: 9].
+* Developed backend service logic with Firebase, streamlining user data management and authentication workflows[cite: 9].
 
 ---
 
 ### 🚀 Featured Projects
 
-Here are a few projects that showcase my frontend capabilities:
+1. **Quizzical**[cite: 9]
+   * **Overview:** A daily quiz web application serving a randomized set of five football-history questions[cite: 9].
+   * **Tech:** React, Next.js, Node.js, MongoDB[cite: 9]
+   * **Links:** [Live Demo](#) | [Code](#)
 
-1. **[Van Life App](https://github.com/obedpaul47-ai/Van-life-)**
-   * *Overview:* A dynamic web application for browsing and renting van options.
-   * *Tech:* JavaScript, CSS, HTML
+2. **Van Life App**[cite: 9]
+   * **Overview:** A dynamic web application for browsing and renting van options, featuring a complete catalogue, host statistics, and booking management[cite: 9].
+   * **Tech:** React, React Router 6, Vite[cite: 9]
+   * **Links:** [Live Demo](#) | [Code](#)
 
-2. **[Assembly: Endgame](https://github.com/obedpaul47-ai/Assembly-Endgame)**
-   * *Overview:* An interactive word-guessing game built to practice state management and modern web logic.
-   * *Tech:* JavaScript, HTML, CSS
+3. **Assembly: Endgame**[cite: 9]
+   * **Overview:** An interactive word-guessing game built with eight attempts and clear win/lose states using React hooks[cite: 9].
+   * **Tech:** React, JavaScript, CSS[cite: 9]
+   * **Links:** [Live Demo](#) | [Code](#)
 
-3. **[Tenzies Game](https://github.com/obedpaul47-ai/Tenzeis)**
-   * *Overview:* A fast-paced dice game focusing on interactive UI, state holding, and game logic.
-   * *Tech:* JavaScript, CSS
+4. **Personal Dashboard**[cite: 9]
+   * **Overview:** A Chrome extension that transforms new browser tabs into a clean productivity and focus dashboard[cite: 9].
+   * **Tech:** HTML, CSS, JavaScript[cite: 9]
+   * **Links:** [Live Demo](#) | [Code](#)
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education & Background
 
-![Obed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=obedpaul47-ai&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obedpaul47-ai&layout=compact&theme=dark)
+* **Higher National Diploma (HND) in Surveying and Geo-Informatics**[cite: 9] — Federal Polytechnic Bauchi, Nigeria[cite: 9]
+* **Certifications:** Scrimba Frontend Developer (2025) | Scrimba Backend Developer (2026)[cite: 9]
+* **Final-Year Project:** Topographic Survey of Part of the Federal Polytechnic Bauchi (Mapped a 58.75-hectare site with differential GPS, ensuring strict quality control and data verification)[cite: 9].
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect with Me
 
-* **Portfolio:** [myportfolio2564.netlify.app](https://myportfolio2564.netlify.app/)
-* **LinkedIn:** [linkedin.com/in/obed-paul-71ab3b221](https://www.linkedin.com/in/obed-paul-71ab3b221/)
-* **X (Twitter):** [@kingbcm06](https://x.com/kingbcm06?s=11)
-* **Email:** [obedpaul47@gmail.com](mailto:obedpaul47@gmail.com)
+* **Email:** obedpaul47@gmail.com[cite: 9]
+* **LinkedIn:** [obed-paul](https://www.linkedin.com/in/obed-paul-71ab3b221/)[cite: 9]
+* **GitHub:** [obedpaul47-ai](https://github.com/obedpaul47-ai)[cite: 9]
